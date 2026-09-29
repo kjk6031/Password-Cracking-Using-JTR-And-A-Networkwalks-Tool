@@ -42,3 +42,9 @@ src="https://github.com/user-attachments/assets/1df7044c-4fe8-4e3c-89a8-dcc6e80d
 <p>
 This exercise demonstrates the process of extracting a PDF hash, saving it for analysis, using John the Ripper to recover the password, and successfully accessing the protected content to obtain the flag.
 </p>
+
+# Tools Used
+<ol>
+  <li>PDF hash Extractor - <a href="https://www.onlinehashcrack.com/tools-pdf-hash-extractor.php">Online Hash Crack</a></li>
+  <li>John The Ripper (JTR) - <a href="www.openwall.com/john">Openwall</a></li>
+</ol>
