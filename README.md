@@ -55,12 +55,16 @@ nw{cybersecurity_flag_captured_2608}
 ## Method 2: Password Recovery Using Networkwalks Tools
 <b><i>Step 1: Generate the File Hash.</i></b>
 I visited the Networkwalks Hash Calculator and generated the hash of the password-protected PDF file.
+<img width="868" height="704" alt="image" src="https://github.com/user-attachments/assets/aa039822-d8e7-40d3-94bb-50886372e68b" />
+
 
 <b><i>Step 2: Launch the Password Cracker.</i></b>
 After obtaining the hash value, I opened the Networkwalks Password Cracker tool.
 
 <b><i>Step 3: Recover the Password.</i></b>
 The generated hash was pasted into the password-cracking tool and the recovery process was started. The tool tested multiple password candidates until a matching password was found.
+<img width="885" height="922" alt="image" src="https://github.com/user-attachments/assets/481cffa3-dd4d-4d08-b744-c4c7b7e3127e" />
+
 
 <b><i>Step 4: Open the PDF File.</i></b>
 Once the password was recovered, I used it to unlock the PDF document and verify its contents.
