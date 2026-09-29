@@ -24,3 +24,9 @@ This lab helped me understand the password-cracking process step by step and sho
  
 <img width="801" height="896" alt="image" src="https://github.com/user-attachments/assets/481736d4-509e-481f-8fd4-5e3bdb150852" />
 
+# Tools used
+<ol>
+  <li>Hash Calculator - Networkwalks</li>
+  <li>Password Cracker through Dictionary Attacks - Networkwalks</li>
+</ol>
+
