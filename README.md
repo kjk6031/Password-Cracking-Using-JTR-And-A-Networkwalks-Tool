@@ -103,4 +103,15 @@ Multi-factor authentication (MFA) adds an extra layer of protection even if a pa
 This lab successfully demonstrated the process of extracting a password hash from a protected PDF file and recovering the password using both John the Ripper and Networkwalks tools. The exercise provided practical exposure to password auditing concepts, highlighted the risks associated with weak passwords, and reinforced the importance of implementing strong authentication practices to protect sensitive information.
 
 
-https://github.com/kjk6031/Password-Cracking-Using-JTR-And-A-Networkwalks-Tool
+# Author
+
+**Kwabeng Jeffrey Kingsley**\
+Cybersecurity Student B083
+
+LinkedIn: www.linkedin.com/in/jeffery-kwabeng-aa53a82b5
+
+## Project Information
+
+**Program Name: **Cybersecurity at Networkwalks | **Week: **03 | **Project: **Password Cracking Using JTR And A Networkwalks Tool | **Repository: **https://github.com/kjk6031/Password-Cracking-Using-JTR-And-A-Networkwalks-Tool
+
+
