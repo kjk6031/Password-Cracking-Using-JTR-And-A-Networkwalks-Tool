@@ -47,6 +47,8 @@ The extracted hash was saved to a text file and processed using John the Ripper.
 
 <b><i>Step 4: Access the Protected File.</i></b>
 After recovering the password, I unlocked the PDF document and successfully retrieved the embedded flag:
+<img width="800" height="912" alt="image" src="https://github.com/user-attachments/assets/5c8c0c49-9111-4aa1-a731-9c288c51e097" />
+
 
 nw{cybersecurity_flag_captured_2608}
 
