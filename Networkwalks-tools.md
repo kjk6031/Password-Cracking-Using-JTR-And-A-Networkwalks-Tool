@@ -8,18 +8,19 @@ In this lab, I used two free online tools provided by Networkwalks. First, I use
 This lab helped me understand the password-cracking process step by step and showed me why strong passwords are essential for protecting sensitive information and preventing unauthorized access.
 
 # What I did
-I visited the networkwalks <a href="https://networkwalks.com/hash-calculator/"> hash calculator</a> to extract the hash of the PDF file
-
+<p>I first visited the Networkwalks <a href="https://networkwalks.com/hash-calculator/">hash calculator</a> and generated the hash value of the PDF file.</p>
+ 
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/31dce76b-1464-4ec3-9631-e2191a7d623e" />
-
-I then opened the Networkwalks <a href="https://networkwalks.com/password-cracker/">Password Cracker</a> in the web browser
+ 
+<p>After obtaining the hash, I navigated to the Networkwalks <a href="https://networkwalks.com/password-cracker/">Password Cracker</a> tool in my browser.</p>
+ 
 <img width="874" height="533" alt="image" src="https://github.com/user-attachments/assets/9d143421-0785-4937-9b40-cdc85322b56a" />
-
-and pasted the hash value into the password cracker and start the attack. The tool tried different
-passwords until it finds a match.
-
+ 
+<p>I then copied the generated hash and pasted it into the password-cracking tool before starting the password recovery process. The application tested multiple password combinations until it identified the password that matched the supplied hash value.</p>
+ 
 <img width="885" height="922" alt="image" src="https://github.com/user-attachments/assets/9990c4c1-6c1b-4fd0-81dd-e0f821a967cd" />
-
-This is the content of the PDF file
+ 
+<p>After recovering the password, I used it to open the protected PDF document. The image below shows the contents of the PDF file after it was successfully accessed.</p>
+ 
 <img width="801" height="896" alt="image" src="https://github.com/user-attachments/assets/481736d4-509e-481f-8fd4-5e3bdb150852" />
 
